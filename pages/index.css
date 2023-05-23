@@ -255,7 +255,7 @@
   margin-right: 12px;
 }
 
-.form__label_type_checkbox {
+.label__type_checkbox {
   display: flex;
   font-family: Inter;
   font-style: normal;
